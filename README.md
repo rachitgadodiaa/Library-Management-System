@@ -6,6 +6,7 @@ Features List
 Student features:
 
 Can register on the platform and then login using the auth token.
+
 After authentication:-
 Can reserve a book.
 Can view his own profile.
